@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://githubusercontent.com" width="100%" height="280" style="object-fit: cover; border-radius: 8px;" onerror="this.src='https://genius.com'" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBkZdYToZ0GNySd0_meRIvLrkNzjxYlKkl5wl1CFPklA&s=10" width="100%" height="280" style="object-fit: cover; border-radius: 8px;" />
 </p>
 
 # Hi, I'm Kharl Gequillo! 👋
