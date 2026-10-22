@@ -1,10 +1,15 @@
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBkZdYToZ0GNySd0_meRIvLrkNzjxYlKkl5wl1CFPklA&s=10" width="100%" height="280" style="object-fit: cover; border-radius: 8px;" />
+  <img src="https://gstatic.com" width="100%" height="280" style="object-fit: cover; border-radius: 8px;" />
 </p>
 
-# Hi, I'm Kharl Gequillo! 👋
-
-I am an Information Technology student passionate about software development and modern web technologies.
+<table>
+  <tr bgcolor="#161b22">
+    <td>
+      <h1>Hi, I'm Kharl Gequillo! 👋</h1>
+      <p>I am an Information Technology student passionate about software development and modern web technologies.</p>
+    </td>
+  </tr>
+</table>
 
 ## 🏫 Education
 * **Course:** Bachelor of Science in Information Technology (BSIT)
