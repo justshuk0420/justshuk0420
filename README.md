@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://genius.com" width="100%" height="280" style="object-fit: cover; border-radius: 8px;" />
+  <img src="banner.jpg" width="100%" height="280" style="object-fit: cover; border-radius: 8px;" />
 </p>
 
 # Hi, I'm Kharl Gequillo! 👋
