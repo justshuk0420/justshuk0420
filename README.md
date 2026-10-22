@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://fbcdn.net" width="100%" height="280" style="object-fit: cover; border-radius: 8px;" />
+</p>
+
 # Hi, I'm Kharl Gequillo! 👋
 
 I am an Information Technology student passionate about software development and modern web technologies.
